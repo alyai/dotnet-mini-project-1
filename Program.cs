@@ -35,7 +35,7 @@ namespace dotnet_mini_project_1
                     break;
                     case 4:
                         if (getSecondNumber != 0) 
-                    Console.WriteLine("Result of division operation: " + (getFirstNumber / getSecondNumber));
+                        Console.WriteLine("Result of division operation: " + (getFirstNumber / getSecondNumber));
                         else Console.WriteLine("Sorry, can't divide by O!");
                     break;
                     default: // Statement executed if no case matches

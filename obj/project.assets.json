@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/dotnet-mini-project-1.csproj",
+      "projectUniqueName": "/Users/omega/Documents/GitHub/dotnet-mini-project-1/dotnet-mini-project-1.csproj",
       "projectName": "dotnet-mini-project-1",
-      "projectPath": "/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/dotnet-mini-project-1.csproj",
+      "projectPath": "/Users/omega/Documents/GitHub/dotnet-mini-project-1/dotnet-mini-project-1.csproj",
       "packagesPath": "/Users/omega/.nuget/packages/",
-      "outputPath": "/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/obj/",
+      "outputPath": "/Users/omega/Documents/GitHub/dotnet-mini-project-1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/omega/.nuget/NuGet/NuGet.Config"
