@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dotnet-mini-project-1/1.0.0": {
+        "runtime": {
+          "dotnet-mini-project-1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-mini-project-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

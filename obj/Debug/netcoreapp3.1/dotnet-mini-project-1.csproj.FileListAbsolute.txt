@@ -1,0 +1,12 @@
+/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/bin/Debug/netcoreapp3.1/dotnet-mini-project-1.deps.json
+/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/bin/Debug/netcoreapp3.1/dotnet-mini-project-1.runtimeconfig.json
+/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/bin/Debug/netcoreapp3.1/dotnet-mini-project-1.runtimeconfig.dev.json
+/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/bin/Debug/netcoreapp3.1/dotnet-mini-project-1.dll
+/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/bin/Debug/netcoreapp3.1/dotnet-mini-project-1.pdb
+/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/obj/Debug/netcoreapp3.1/dotnet-mini-project-1.csprojAssemblyReference.cache
+/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/obj/Debug/netcoreapp3.1/dotnet-mini-project-1.csproj.CoreCompileInputs.cache
+/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/obj/Debug/netcoreapp3.1/dotnet-mini-project-1.AssemblyInfoInputs.cache
+/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/obj/Debug/netcoreapp3.1/dotnet-mini-project-1.AssemblyInfo.cs
+/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/obj/Debug/netcoreapp3.1/dotnet-mini-project-1.dll
+/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/obj/Debug/netcoreapp3.1/dotnet-mini-project-1.pdb
+/Users/omega/Dotnet Course Folder/dotnet-mini-project-1/obj/Debug/netcoreapp3.1/dotnet-mini-project-1.genruntimeconfig.cache
