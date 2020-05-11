@@ -46,7 +46,7 @@ namespace dotnet_mini_project_1
             catch (Exception ex)
             {
                 Console.WriteLine("You can use only numbers!", ex.Message);
-                //if (++count == maxTries) throw new Exception("You can use only numbers!");
+                //if (count++ == maxTries) throw new Exception("You can use only numbers!");
             }
         //}
 
